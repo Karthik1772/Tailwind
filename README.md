@@ -12,5 +12,5 @@ Click on a topic to explore:
 - ⚖️ [Size](Docs/Size.md)
 - ⚖️ [Positions](Docs/Positions.md)
 - ⚖️ [Container](Docs/Container.md)
-- ⚖️ [Background_Class](Docs/Background_Classes.md)
+- ⚖️ [Background_Classes](Docs/Background_Classes.md)
 - ⚖️ [Filter_Classes](Docs/Filter_Classes.md)
