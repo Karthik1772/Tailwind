@@ -5,5 +5,5 @@ Welcome to my Tailwind CSS learning journey! 🚀
 Click on a topic to explore:
 
 - 📏 [Colors](Docs/Colors.md)
-- 📐 [Height](docs/height.md)
+- 📐 [Border](Docs/Border.md)
 - ⚖️ [Size](docs/size.md)
