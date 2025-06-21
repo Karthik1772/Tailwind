@@ -32,7 +32,7 @@ The `container` class in Tailwind is used to create a **responsive fixed-width l
 
 You can extend or modify how `container` behaves in your `tailwind.config.js`:
 
-```js
+```
 // tailwind.config.js
 module.exports = {
   theme: {
@@ -77,5 +77,3 @@ module.exports = {
 
 
 🔙 [Back to Home](../README.md)
-
-Let me know if you'd like this paired with `grid`, `flex`, or layout utilities for complete page building blocks!
