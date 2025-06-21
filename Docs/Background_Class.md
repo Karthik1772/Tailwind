@@ -17,7 +17,7 @@ Common modifiers:
 
 ```
 bg-cover        // Scales image to cover container
-bg-contain      // Scales image to fit container
+bg-container      // Scales image to fit container
 bg-center       // Centers image
 bg-no-repeat    // Prevents repeating
 bg-repeat       // Repeats image
@@ -80,7 +80,11 @@ Variants:
 bg-gradient-to-r   // right
 bg-gradient-to-l   // left
 bg-gradient-to-t   // top
+bg-gradient-to-tr   // top right
+bg-gradient-to-tl   // top left
 bg-gradient-to-b   // bottom
+bg-gradient-to-br   // bottom right
+bg-gradient-to-bl   // bottom left
 ```
 
 Use with:
