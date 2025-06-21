@@ -123,6 +123,7 @@ divide-x-2
 divide-y-reverse
 divide-gray-300
 ```
+---
 
 ##  2> 🔲 Outline Utilities
 
@@ -166,6 +167,7 @@ outline-offset-4
 outline-offset-8
 ```
 
+---
 
 ## 3> 🔵 Ring Utilities (Focus Rings)
 
