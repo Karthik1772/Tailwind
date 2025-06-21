@@ -59,3 +59,7 @@ size-[calc(100%-2rem)]
 
 * If you want **independent control**, use `w-*` and `h-*`.
 * If you want **equal width and height**, use `size-*`.
+
+
+🔙 [Back to Home](../README.md)
+
