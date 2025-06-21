@@ -2,7 +2,6 @@
 
 Tailwind CSS provides powerful utilities for controlling border appearance, outlines, rings, shadows, and spacing between elements.
 
----
 
 ## 1> 🧩 Border Width
 
@@ -167,7 +166,6 @@ outline-offset-4
 outline-offset-8
 ```
 
----
 
 ## 3> 🔵 Ring Utilities (Focus Rings)
 
@@ -211,7 +209,6 @@ ring-offset-black
 ring-offset-blue-200
 ```
 
----
 
 ## 💠 Box Shadow (Alternative to borders for depth)
 
@@ -226,7 +223,6 @@ shadow-inner
 shadow-none
 ```
 
----
 
 ## 🚫 Remove All Borders / Outlines / Shadows
 
