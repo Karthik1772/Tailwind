@@ -1,87 +1,84 @@
-# 🖼️ Tailwind Flexbox Visual Guide
+# 🤸 Tailwind CSS Flexbox Utilities (With Visuals)
 
+Master flex layout with Tailwind using these handy classes and examples:
+
+---
 
 ## 🔹 `flex` vs `inline-flex`
 
-| Class         | Preview                                                                             |
-| ------------- | ----------------------------------------------------------------------------------- |
-| `flex`        | ![flex](https://tailwindcss.com/_next/static/media/flex.a7f74245.svg)               |
-| `inline-flex` | ![inline-flex](https://tailwindcss.com/_next/static/media/inline-flex.0baddb99.svg) |
+| Class         | Visual                                                                   |
+| ------------- | ------------------------------------------------------------------------ |
+| `flex`        | ![](https://tailwindcss.com/_next/static/media/flex.a7f74245.svg)        |
+| `inline-flex` | ![](https://tailwindcss.com/_next/static/media/inline-flex.0baddb99.svg) |
 
-➡️ `flex` = block-level flex
-➡️ `inline-flex` = inline-level flex
+---
 
+## 🔄 Flex Direction
 
+| Class              | Visual                                                                        |
+| ------------------ | ----------------------------------------------------------------------------- |
+| `flex-row`         | ![](https://tailwindcss.com/_next/static/media/flex-row.3ce3c982.svg)         |
+| `flex-row-reverse` | ![](https://tailwindcss.com/_next/static/media/flex-row-reverse.ae4033da.svg) |
+| `flex-col`         | ![](https://tailwindcss.com/_next/static/media/flex-col.8d8b80db.svg)         |
+| `flex-col-reverse` | ![](https://tailwindcss.com/_next/static/media/flex-col-reverse.b89c1730.svg) |
 
-## 🔄 `flex-row` vs `flex-col`
+---
 
-| Class      | Preview                                                                       |
-| ---------- | ----------------------------------------------------------------------------- |
-| `flex-row` | ![flex-row](https://tailwindcss.com/_next/static/media/flex-row.3ce3c982.svg) |
-| `flex-col` | ![flex-col](https://tailwindcss.com/_next/static/media/flex-col.8d8b80db.svg) |
+## 🧱 Flex Wrap
 
-➡️ `flex-row` = children go left to right
-➡️ `flex-col` = children go top to bottom
+| Class               | Visual                                                                         |
+| ------------------- | ------------------------------------------------------------------------------ |
+| `flex-wrap`         | ![](https://tailwindcss.com/_next/static/media/flex-wrap.12e93f08.svg)         |
+| `flex-wrap-reverse` | ![](https://tailwindcss.com/_next/static/media/flex-wrap-reverse.03ed43fc.svg) |
+| `flex-nowrap`       | ![](https://tailwindcss.com/_next/static/media/flex-nowrap.199a6075.svg)       |
 
+---
 
+## 📍 Justify Content
 
-## ♻️ `flex-wrap` and `flex-nowrap`
+| Class             | Visual                                                                       |
+| ----------------- | ---------------------------------------------------------------------------- |
+| `justify-start`   | ![](https://tailwindcss.com/_next/static/media/justify-start.8c7f4180.svg)   |
+| `justify-center`  | ![](https://tailwindcss.com/_next/static/media/justify-center.3a206935.svg)  |
+| `justify-end`     | ![](https://tailwindcss.com/_next/static/media/justify-end.2f9181b7.svg)     |
+| `justify-between` | ![](https://tailwindcss.com/_next/static/media/justify-between.c56af76f.svg) |
+| `justify-around`  | ![](https://tailwindcss.com/_next/static/media/justify-around.d4be9625.svg)  |
+| `justify-evenly`  | ![](https://tailwindcss.com/_next/static/media/justify-evenly.30dbba66.svg)  |
 
-| Class         | Preview                                                                        |
-| ------------- | ------------------------------------------------------------------------------ |
-| `flex-wrap`   | ![wrap](https://tailwindcss.com/_next/static/media/flex-wrap.12e93f08.svg)     |
-| `flex-nowrap` | ![nowrap](https://tailwindcss.com/_next/static/media/flex-nowrap.199a6075.svg) |
+---
 
-➡️ `wrap` allows line-breaking
-➡️ `nowrap` forces all items in one line
+## 📐 Align Items
 
+| Class            | Visual                                                                      |
+| ---------------- | --------------------------------------------------------------------------- |
+| `items-start`    | ![](https://tailwindcss.com/_next/static/media/items-start.74e33d3f.svg)    |
+| `items-center`   | ![](https://tailwindcss.com/_next/static/media/items-center.61c279b1.svg)   |
+| `items-end`      | ![](https://tailwindcss.com/_next/static/media/items-end.7e3f3c8c.svg)      |
+| `items-stretch`  | ![](https://tailwindcss.com/_next/static/media/items-stretch.9d77b828.svg)  |
+| `items-baseline` | ![](https://tailwindcss.com/_next/static/media/items-baseline.3436cf74.svg) |
 
+---
 
-## 📍 `justify-*` (Main Axis)
+## 📏 Flex Grow / Shrink
 
-| Class             | Preview                                                                             |
-| ----------------- | ----------------------------------------------------------------------------------- |
-| `justify-start`   | ![start](https://tailwindcss.com/_next/static/media/justify-start.8c7f4180.svg)     |
-| `justify-center`  | ![center](https://tailwindcss.com/_next/static/media/justify-center.3a206935.svg)   |
-| `justify-end`     | ![end](https://tailwindcss.com/_next/static/media/justify-end.2f9181b7.svg)         |
-| `justify-between` | ![between](https://tailwindcss.com/_next/static/media/justify-between.c56af76f.svg) |
-| `justify-around`  | ![around](https://tailwindcss.com/_next/static/media/justify-around.d4be9625.svg)   |
-| `justify-evenly`  | ![evenly](https://tailwindcss.com/_next/static/media/justify-evenly.30dbba66.svg)   |
+| Class       | Visual                                                                 |
+| ----------- | ---------------------------------------------------------------------- |
+| `flex-1`    | ![](https://tailwindcss.com/_next/static/media/flex-1.0175f238.svg)    |
+| `flex-auto` | ![](https://tailwindcss.com/_next/static/media/flex-auto.2d6df0f3.svg) |
+| `flex-none` | ![](https://tailwindcss.com/_next/static/media/flex-none.0b567cb4.svg) |
 
+---
 
+## 🔃 Order
 
-## 📐 `items-*` (Cross Axis / Vertical Align)
+| Class     | Visual                                                             |
+| --------- | ------------------------------------------------------------------ |
+| `order-*` | ![](https://tailwindcss.com/_next/static/media/order.4e4c95d6.svg) |
 
-| Class            | Preview                                                                             |
-| ---------------- | ----------------------------------------------------------------------------------- |
-| `items-start`    | ![start](https://tailwindcss.com/_next/static/media/items-start.74e33d3f.svg)       |
-| `items-center`   | ![center](https://tailwindcss.com/_next/static/media/items-center.61c279b1.svg)     |
-| `items-end`      | ![end](https://tailwindcss.com/_next/static/media/items-end.7e3f3c8c.svg)           |
-| `items-stretch`  | ![stretch](https://tailwindcss.com/_next/static/media/items-stretch.9d77b828.svg)   |
-| `items-baseline` | ![baseline](https://tailwindcss.com/_next/static/media/items-baseline.3436cf74.svg) |
+---
 
+### ✅ Pro Tip for GitHub
 
-
-## 📏 `flex-1`, `flex-auto`, `flex-none`
-
-| Class       | Preview                                                                    |
-| ----------- | -------------------------------------------------------------------------- |
-| `flex-1`    | ![flex-1](https://tailwindcss.com/_next/static/media/flex-1.0175f238.svg)  |
-| `flex-auto` | ![auto](https://tailwindcss.com/_next/static/media/flex-auto.2d6df0f3.svg) |
-| `flex-none` | ![none](https://tailwindcss.com/_next/static/media/flex-none.0b567cb4.svg) |
-
-
-
-## 🪄 `order-*` (Reordering)
-
-| Class                    | Preview                                                                 |
-| ------------------------ | ----------------------------------------------------------------------- |
-| `order-1` `order-2` etc. | ![order](https://tailwindcss.com/_next/static/media/order.4e4c95d6.svg) |
-
-
-
-### 🧠 Pro Tip:
-
-> All visuals are **officially from [Tailwind CSS docs](https://tailwindcss.com/docs/flex)**, so they’re reliable.
-
+> ✅ These SVGs are from Tailwind’s official CDN, so they **work reliably** in GitHub markdown.
+> 🧠 You can embed this section directly into your `README.md` and it will render as-is.
 
