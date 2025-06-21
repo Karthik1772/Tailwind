@@ -3,7 +3,7 @@
 ## ❓ What is `size-*` in Tailwind?
 
 The `size` utility is a **shorthand for setting both width and height at once**.
-It's equivalent to: **w-* + h-***
+It's equivalent to: w-* + h-*
 
 ## ✅ Syntax
 
