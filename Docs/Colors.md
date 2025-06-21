@@ -8,7 +8,7 @@ Tailwind provides a range of utility classes to set **text** and **background** 
 
 Use the following to change **text color**:
 
----
+```
 text-blue-50
 text-blue-100
 text-blue-200
@@ -32,7 +32,7 @@ text-blue-950
 
 Use the following to change **background color**:
 
----
+```
 bg-red-50
 bg-red-100
 bg-red-200
