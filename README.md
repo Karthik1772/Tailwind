@@ -15,7 +15,7 @@ Click on a topic to explore:
 - ⚖️ [Background_Classes](Docs/Background_Classes.md)
 - ⚖️ [Filter_Classes](Docs/Filter_Classes.md)
 - ⚖️ [Media_Queries_&_Breakpoints](Docs/Media_Queries_&_Breakpoints.md)
-- ⚖️ [Interactivity_Classes](Docs/Interactivity_Classes.md)
+- ⚖️ [Columns_Classes](Docs/Columns_Classes.md)
 - ⚖️ [Interactivity_Classes](Docs/Interactivity_Classes.md)
 - ⚖️ [Interactivity_Classes](Docs/Interactivity_Classes.md)
 - ⚖️ [Interactivity_Classes](Docs/Interactivity_Classes.md)
