@@ -8,3 +8,4 @@ Click on a topic to explore:
 - 📐 [Border](Docs/Border.md)
 - ⚖️ [Margin](Docs/Margin.md)
 - ⚖️ [Width](Docs/Width.md)
+- ⚖️ [Height](Docs/Height.md)
