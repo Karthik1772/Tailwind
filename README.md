@@ -7,3 +7,4 @@ Click on a topic to explore:
 - 📏 [Colors](Docs/Colors.md)
 - 📐 [Border](Docs/Border.md)
 - ⚖️ [Margin](Docs/Margin.md)
+- ⚖️ [Width](Docs/Width.md)
