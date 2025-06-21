@@ -48,7 +48,6 @@ bg-red-950
 ```
 
 ❗ **Note:** `bg-black` and `bg-white` are available directly but **do not follow the numeric scale**:
-
 ```
 bg-black
 bg-white
@@ -75,6 +74,3 @@ bg-purple-700
 
 🔙 [Back to Home](../README.md)
 
----
-
-Would you like me to generate a few sample `.md` files like this (`width.md`, `height.md`, `colors.md`) and give you a downloadable `.zip` with a README and docs structure?
