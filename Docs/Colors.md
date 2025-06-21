@@ -48,9 +48,10 @@ bg-red-950
 
 ❗ **Note:** `bg-black` and `bg-white` are available directly but **do not follow the numeric scale**:
 
-> bg-black
-> bg-white
-
+```
+bg-black
+bg-white
+```
 
 ## 💡 Tip
 
