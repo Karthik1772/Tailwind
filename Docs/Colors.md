@@ -24,9 +24,10 @@ text-blue-950
 
 ❗ **Note:** Colors like `text-black` and `text-white` are **not part of the shade scale**. Use them directly:
 
+```
 > text-black
 > text-white
-
+```
 
 ## 🧱 Background Colors (Example: Red)
 
