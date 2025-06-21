@@ -100,9 +100,9 @@ xl:rounded-2xl
 
 ## 🧠 Tips
 
-* ✅ **Mobile-first**: Start without a prefix, then add styles for larger screens.
-* ✅ Use **responsive design** by layering classes.
-* ✅ Tailwind makes breakpoints **compositional** – no need for complex CSS media queries.
+*  **Mobile-first**: Start without a prefix, then add styles for larger screens.
+*  Use **responsive design** by layering classes.
+*  Tailwind makes breakpoints **compositional** – no need for complex CSS media queries.
 
 
 
