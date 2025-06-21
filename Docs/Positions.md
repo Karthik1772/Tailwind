@@ -89,7 +89,7 @@ z-[9999]
 
 ### 🧠 Common Use Case Example
 
-```html
+```
 <div class="relative">
   <div class="absolute top-0 right-0 size-6 bg-red-500"></div>
 </div>
