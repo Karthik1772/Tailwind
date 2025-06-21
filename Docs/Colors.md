@@ -67,10 +67,10 @@ You can replace `blue` and `red` with other color names such as:
 - ...and many more!
 
 Example:
-
+```
 text-green-500
 bg-purple-700
-
+```
 
 
 🔙 [Back to Home](../README.md)
