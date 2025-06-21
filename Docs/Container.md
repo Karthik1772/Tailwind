@@ -25,7 +25,7 @@ The `container` class in Tailwind is used to create a **responsive fixed-width l
 | `xl`       | 1280px |
 | `2xl`      | 1536px |
 
-> These values are configurable in `tailwind.config.js`.
+* These values are configurable in `tailwind.config.js`.
 
 
 ## 🧩 Customizing the Container
