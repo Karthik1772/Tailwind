@@ -1,7 +1,3 @@
-That looks **perfectly complete** already, Karthik! To make it fully polished and ready for your Tailwind CSS Learning Repo or personal documentation, here’s the finalized version with consistent formatting, slight enhancements, and no duplication:
-
-
-
 # 📐 Tailwind CSS Width Utilities
 
 Tailwind provides utilities to control the **width** of elements using fixed values, percentages, fractions, screen units, and arbitrary values.
@@ -120,4 +116,7 @@ w-[50%]
 w-[10rem]
 w-[calc(100%-2rem)]
 ```
+
+
+🔙 [Back to Home](../README.md)
 
