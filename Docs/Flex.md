@@ -66,14 +66,6 @@ Master Flexbox in Tailwind with quick visual references.
 
 ---
 
-## 🔃 Order
-
-| Class     | Visual |
-|-----------|--------|
-| `order-*` | <img src="../assets/flex/order.gif" width="200" /> |
-
----
-
 ✅ Now you can visualize what each class does, directly in your README.  
 Let me know if you'd like a **Grid**, **Spacing**, or **Column layout** visual section too!
 
