@@ -105,13 +105,6 @@ Example:
 
 
 
-## 🧠 Pro Tips
-
-* Great for **news feed**, **blogs**, **card layouts**, or **masonry**-like grids.
-* Combine with `break-inside-avoid` to maintain card integrity.
-* Works well with `gap-*` and responsive breakpoints.
-
-
 🔙 [Back to Home](../README.md)
 
 
