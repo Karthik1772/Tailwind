@@ -17,7 +17,7 @@ Master Flexbox in Tailwind with quick visual references.
 
 | Class              | Visual |
 |--------------------|--------|
-| `flex-row`         | ![flex-row](../assets/flex/flex-row.gif) |
+| `flex-row`         | <img src="../assets/flex/flex-row.gif" width="200" />|
 | `flex-col`         | ![flex-col](../assets/flex/flex-col.gif) |
 
 
