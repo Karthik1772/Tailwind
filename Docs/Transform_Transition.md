@@ -18,14 +18,14 @@ Tailwind gives you full control over element transformations and transitions usi
 
 ## 📽️ Section Overview *(from presentation slide)*
 
-![Transition vs Transform](../assets/slides/transition-vs-transform.png)
+[Transition vs Transform](../assets/slides/transition-vs-transform.png)
 
 - ✅ What is Transition vs Transform
 - ⏱️ Apply Transition with duration
 - 🔃 Apply Transform
 - 🖼️ Transition vs Transform with image
 - ❓ Interview Question:  
-  ▫️ How to rotate element or image
+- 🔁 How to rotate element or image
 
 
 
@@ -232,5 +232,4 @@ ease-\[cubic-bezier(0.4, 0, 0.2, 1)]
 
 
 🔙 [Back to Home](../README.md)
-```
 
