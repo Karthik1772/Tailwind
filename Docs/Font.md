@@ -206,7 +206,3 @@ text-justify
 
 🔙 [Back to Home](../README.md)
 ```
-
----
-
-Let me know if you want this formatted as a downloadable `.md` file or want visuals for some of these classes (like font size, spacing, etc.)!
