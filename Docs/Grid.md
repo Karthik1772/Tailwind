@@ -14,7 +14,6 @@ Master CSS Grid using Tailwind's utility classes — fast, responsive, and visua
 
 
 ## 🔸 `grid-cols-*` — Column Count
-
 | Class          | Description                     | Visual |
 |----------------|----------------------------------|--------|
 | `grid-cols-2`  | 2 equal-width columns            | <img src="../assets/grid/grid-cols-2.png" width="200" /> |
@@ -25,7 +24,6 @@ Master CSS Grid using Tailwind's utility classes — fast, responsive, and visua
 
 
 ## 🔸 `col-span-*` — Column Span
-
 | Class         | Description                   | Visual |
 |---------------|-------------------------------|--------|
 | `col-span-2`  | Item spans 2 columns          | <img src="../assets/grid/col-span-2.png" width="200" /> |
@@ -34,7 +32,6 @@ Master CSS Grid using Tailwind's utility classes — fast, responsive, and visua
 
 
 ## 🔸 `row-span-*` — Row Span
-
 | Class         | Description               | Visual |
 |---------------|---------------------------|--------|
 | `row-span-2`  | Item spans 2 rows        | <img src="../assets/grid/row-span-2.png" width="200" /> |
@@ -42,7 +39,6 @@ Master CSS Grid using Tailwind's utility classes — fast, responsive, and visua
 
 
 ## 🔸 `gap-*` — Grid Gap
-
 | Class   | Description              | Visual |
 |---------|--------------------------|--------|
 | `gap-2` | Small gap between items  | <img src="../assets/grid/gap-2.png" width="200" /> |

@@ -9,7 +9,6 @@ Tailwind makes it super easy to add spacing **inside** elements using intuitive 
 Apply padding on **all sides**:
 
 ```
-
 p-0
 p-1
 p-2
@@ -28,13 +27,11 @@ p-40
 p-48
 p-56
 p-64
-
 ```
 
 🧪 Custom:
 
 ```
-
 p-\[18px]
 p-\[5%]
 
@@ -47,21 +44,17 @@ p-\[5%]
 Apply padding on **left and right**:
 
 ```
-
 px-0
 px-1
 px-2
 ...
 px-64
-
 ```
 
 🧪 Custom:
 
 ```
-
 px-\[10px]
-
 ```
 
 
@@ -71,21 +64,17 @@ px-\[10px]
 Apply padding on **top and bottom**:
 
 ```
-
 py-0
 py-1
 py-2
 ...
 py-64
-
 ```
 
 🧪 Custom:
 
 ```
-
 py-\[1.25rem]
-
 ```
 
 
@@ -93,21 +82,17 @@ py-\[1.25rem]
 ## 🔼 Top Padding
 
 ```
-
 pt-0
 pt-1
 pt-2
 ...
 pt-64
-
 ```
 
 🧪 Custom:
 
 ```
-
 pt-\[6px]
-
 ```
 
 
@@ -115,13 +100,11 @@ pt-\[6px]
 ## 🔽 Bottom Padding
 
 ```
-
 pb-0
 pb-1
 pb-2
 ...
 pb-64
-
 ```
 
 
@@ -129,13 +112,11 @@ pb-64
 ## ◀️ Left Padding
 
 ```
-
 pl-0
 pl-1
 pl-2
 ...
 pl-64
-
 ```
 
 
@@ -143,19 +124,16 @@ pl-64
 ## ▶️ Right Padding
 
 ```
-
 pr-0
 pr-1
 pr-2
 ...
 pr-64
-
 ```
 
 
 
 ## 📏 Padding Values
-
 | Class   | Size      | REM    | Pixels  |
 |---------|-----------|--------|---------|
 | `p-0`   | 0         | 0rem   | 0px     |
@@ -180,7 +158,6 @@ pr-64
 
 
 ## ✅ Summary Cheatsheet
-
 | Direction     | Class Prefix |
 |---------------|--------------|
 | All sides     | `p-`         |
