@@ -2,7 +2,7 @@
 
 Tailwind provides utility classes to define **multi-column layouts** using the `columns` property from CSS.
 
-
+---
 
 ## 📐 Column Count
 

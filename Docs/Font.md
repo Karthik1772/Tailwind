@@ -14,7 +14,7 @@ font-mono     // Monospace fonts
 
 ```
 
----
+
 
 ## 🔠 Font Size
 
@@ -45,7 +45,7 @@ text-\[2.5rem]
 
 ```
 
----
+
 
 ## 🅱️ Font Weight
 
@@ -63,7 +63,7 @@ font-black       // 900
 
 ```
 
----
+
 
 ## ✍️ Font Style
 
@@ -74,7 +74,7 @@ not-italic
 
 ```
 
----
+
 
 ## 🔡 Letter Spacing
 
@@ -97,7 +97,7 @@ tracking-\[0.1em]
 
 ```
 
----
+
 
 ## 📏 Line Height
 
@@ -120,7 +120,7 @@ leading-\[1.75]
 
 ```
 
----
+
 
 ## 🔤 Text Transform
 
@@ -133,7 +133,7 @@ normal-case
 
 ```
 
----
+
 
 ## 🎯 Text Decoration
 
@@ -145,7 +145,7 @@ no-underline
 
 ```
 
----
+
 
 ## ✂️ Text Overflow
 
@@ -157,7 +157,7 @@ overflow-clip      // Clips text without ellipsis
 
 ```
 
----
+
 
 ## 🔳 Whitespace Handling
 
@@ -171,7 +171,7 @@ whitespace-pre-wrap
 
 ```
 
----
+
 
 ## 📜 Text Align
 
@@ -184,25 +184,5 @@ text-justify
 
 ```
 
----
-
-## ✅ Summary Cheatsheet
-
-| Feature             | Example Classes                             |
-|---------------------|----------------------------------------------|
-| Font Family         | `font-sans`, `font-serif`, `font-mono`       |
-| Font Size           | `text-sm`, `text-2xl`, `text-[24px]`         |
-| Font Weight         | `font-bold`, `font-light`, `font-black`      |
-| Font Style          | `italic`, `not-italic`                       |
-| Letter Spacing      | `tracking-wide`, `tracking-[0.1em]`          |
-| Line Height         | `leading-relaxed`, `leading-[1.6]`           |
-| Text Transform      | `uppercase`, `capitalize`                    |
-| Text Decoration     | `underline`, `line-through`, `no-underline`  |
-| Text Overflow       | `truncate`, `overflow-ellipsis`              |
-| Whitespace Control  | `whitespace-nowrap`, `whitespace-pre`        |
-| Text Align          | `text-center`, `text-right`                  |
-
----
 
 🔙 [Back to Home](../README.md)
-```
