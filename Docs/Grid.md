@@ -20,14 +20,7 @@ Master CSS Grid using Tailwind's utility classes — fast, responsive, and visua
 | `grid-cols-2`  | 2 equal-width columns            | <img src="../assets/grid/grid-cols-2.png" width="200" /> |
 | `grid-cols-3`  | 3 equal-width columns            | <img src="../assets/grid/grid-cols-3.png" width="200" /> |
 | `grid-cols-4`  | 4 equal-width columns            | <img src="../assets/grid/grid-cols-4.png" width="200" /> |
-
-```html
-<div class="grid grid-cols-3 gap-4">
-  <div>1</div>
-  <div>2</div>
-  <div>3</div>
-</div>
-```
+`
 
 ---
 
@@ -77,15 +70,5 @@ Master CSS Grid using Tailwind's utility classes — fast, responsive, and visua
 
 ---
 
-## 🧩 Bonus Tips
 
-- Combine with `responsive` classes like `md:grid-cols-4`
-- Nest grids within grids for complex layouts
-- Use `grid-flow-row` or `grid-flow-col` to control item direction
-
----
-
-## 🔗 Resources
-
-- [Tailwind Grid Docs](https://tailwindcss.com/docs/grid-template-columns)
-- [Grid Generator](https://cssgrid-generator.netlify.app/)
+🔙 [Back to Home](../README.md)
