@@ -32,7 +32,7 @@ animate-bounce
 <div class="animate-spin w-8 h-8 border-4 border-t-transparent border-white rounded-full"></div>
 ````
 
----
+
 
 ## 🎞️ Custom Keyframe Animations
 
@@ -63,7 +63,7 @@ Then use it like:
 <div class="animate-wiggle">I'm wiggling!</div>
 ```
 
----
+
 
 ## ⏱️ Duration
 
@@ -84,7 +84,7 @@ duration-1000
 duration-\[800ms]
 ```
 
----
+
 
 ## 🕒 Delay
 
@@ -105,7 +105,7 @@ delay-1000
 delay-\[250ms]
 ```
 
----
+
 
 ## ⏳ Repetition & Iteration
 
@@ -125,7 +125,7 @@ animation: my-animation 1s linear infinite;
 
 Note: Tailwind doesn’t have built-in `animation-iteration` classes — add custom classes or use inline styles if needed.
 
----
+
 
 ## 🧭 Easing
 
@@ -142,7 +142,7 @@ ease-in-out
 ease-\[cubic-bezier\(0.4, 0, 0.2, 1\)]
 ```
 
----
+
 
 ## 📽️ Visual Slide Reference
 
@@ -155,7 +155,7 @@ Covered:
 * 🧪 Animation + transform
 * 🧾 Interview Q: How to animate rotation, blinking, fade-in etc.
 
----
+
 
 ## ✅ Summary Cheatsheet
 
@@ -167,7 +167,7 @@ Covered:
 | Easing    | `ease-in-out`, `ease-linear`         |
 | Custom    | Define via `keyframes` + `animation` |
 
----
+
 
 🔙 [Back to Home](../README.md)
 
