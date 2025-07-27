@@ -17,7 +17,7 @@ Click on a topic to explore:
 - ⚖️ [Media_Queries_&_Breakpoints](Docs/Media_Queries_&_Breakpoints.md)
 - ⚖️ [Columns_Classes](Docs/Columns_Classes.md)
 - ⚖️ [Flex](Docs/Flex.md)
-- ⚖️ [Interactivity_Classes](Docs/Interactivity_Classes.md)
+- ⚖️ [Interactivity_Classes](Docs/Grid.md)
 - ⚖️ [Interactivity_Classes](Docs/Interactivity_Classes.md)
 - ⚖️ [Interactivity_Classes](Docs/Interactivity_Classes.md)
 - ⚖️ [Interactivity_Classes](Docs/Interactivity_Classes.md)
