@@ -4,21 +4,32 @@ Welcome to my Tailwind CSS learning journey! 🚀
 
 Click on a topic to explore:
 
-- 📏 [Colors](Docs/Colors.md)
-- 📐 [Border](Docs/Border.md)
-- ⚖️ [Margin](Docs/Margin.md)
-- ⚖️ [Width](Docs/Width.md)
-- ⚖️ [Height](Docs/Height.md)
-- ⚖️ [Size](Docs/Size.md)
-- ⚖️ [Positions](Docs/Positions.md)
-- ⚖️ [Container](Docs/Container.md)
-- ⚖️ [Background_Classes](Docs/Background_Classes.md)
-- ⚖️ [Filter_Classes](Docs/Filter_Classes.md)
-- ⚖️ [Media_Queries_&_Breakpoints](Docs/Media_Queries_&_Breakpoints.md)
-- ⚖️ [Columns_Classes](Docs/Columns_Classes.md)
-- ⚖️ [Flex](Docs/Flex.md)
-- ⚖️ [Grid](Docs/Grid.md)
-- ⚖️ [Transfor & Transition](Docs/Interactivity_Classes.md)
-- ⚖️ [Animation Classes](Docs/Interactivity_Classes.md)
-- ⚖️ [Padding ](Docs/Interactivity_Classes.md)
-- ⚖️ [Font classses](Docs/Interactivity_Classes.md)
+## 🎨 Design & Theme
+- 🎨 [Colors](Docs/Colors.md)
+- 🧱 [Border](Docs/Border.md)
+- 🖼️ [Background Classes](Docs/Background_Classes.md)
+- 🌈 [Filter Classes](Docs/Filter_Classes.md)
+
+## 📏 Layout & Spacing
+- 📐 [Margin](Docs/Margin.md)
+- 📐 [Padding](Docs/Padding.md)
+- 📏 [Width](Docs/Width.md)
+- 📏 [Height](Docs/Height.md)
+- 📦 [Size](Docs/Size.md)
+- 🧭 [Positions](Docs/Positions.md)
+- 🪟 [Container](Docs/Container.md)
+
+## 🧰 Layout Systems
+- 📊 [Flex](Docs/Flex.md)
+- 🧱 [Grid](Docs/Grid.md)
+- 🧬 [Columns Classes](Docs/Columns_Classes.md)
+
+## 🎛️ Interactivity & Effects
+- 🔁 [Transform & Transition](Docs/Transform_Transition.md)
+- 🎞️ [Animation Classes](Docs/Animation.md)
+
+## 🖋️ Typography
+- ✍️ [Font Classes](Docs/Font.md)
+
+## 📱 Responsiveness
+- 📐 [Media Queries & Breakpoints](Docs/Media_Queries_&_Breakpoints.md)
