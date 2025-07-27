@@ -14,7 +14,6 @@ animate-spin
 animate-ping
 animate-pulse
 animate-bounce
-
 ````
 | Class           | Effect Description                                    |
 |----------------|--------------------------------------------------------|
