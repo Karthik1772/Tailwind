@@ -35,12 +35,12 @@ Master Flexbox in Tailwind with quick visual references.
 
 | Class              | Visual |
 |--------------------|--------|
-| `justify-start`    | <img src="../assets/flex/justify-start.gif" width="200" /> |
-| `justify-center`   | <img src="../assets/flex/justify-center.gif" width="200" /> |
-| `justify-end`      | <img src="../assets/flex/justify-end.gif" width="200" /> |
-| `justify-between`  | <img src="../assets/flex/justify-between.gif" width="200" /> |
-| `justify-around`   | <img src="../assets/flex/justify-around.gif" width="200" /> |
-| `justify-evenly`   | <img src="../assets/flex/justify-evenly.gif" width="200" /> |
+| `justify-start`    | <img src="../assets/flex/flex-justify-start.gif" width="200" /> |
+| `justify-center`   | <img src="../assets/flex/flex-justify-center.gif" width="200" /> |
+| `justify-end`      | <img src="../assets/flex/flex-justify-end.gif" width="200" /> |
+| `justify-between`  | <img src="../assets/flex/flex-justify-between.gif" width="200" /> |
+| `justify-around`   | <img src="../assets/flex/flex-justify-around.gif" width="200" /> |
+| `justify-evenly`   | <img src="../assets/flex/flex-justify-evenly.gif" width="200" /> |
 
 ---
 
