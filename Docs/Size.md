@@ -1,6 +1,5 @@
 # 📐 `size` Utility in Tailwind CSS
 
-## ❓ What is `size-*` in Tailwind?
 
 The `size` utility is a **shorthand for setting both width and height at once**.
 It's equivalent to: w-* + h-*
@@ -55,7 +54,7 @@ size-[calc(100%-2rem)]
   ```
 
 
-## 🧠 Tip
+## 🧠 Note
 
 * If you want **independent control**, use `w-*` and `h-*`.
 * If you want **equal width and height**, use `size-*`.
