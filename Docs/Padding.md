@@ -1,8 +1,3 @@
-Absolutely! Here's the refined and consistently styled `Transform_Transition.md` file that perfectly matches your latest formatting style:
-
----
-
-```markdown
 # 🔄 Tailwind CSS Transform & Transition Utilities
 
 Tailwind gives you full control over **element transformations** and **CSS transitions** using intuitive utility classes.
@@ -20,7 +15,7 @@ Tailwind gives you full control over **element transformations** and **CSS trans
 > 🔁 Transform = *What* to animate  
 > ⏱️ Transition = *How* to animate
 
----
+
 
 ## 📽️ Visual Slide Reference
 
@@ -34,7 +29,7 @@ Topics covered:
 - ❓ Interview Question:  
   ▫️ How to rotate element or image
 
----
+
 
 ## 🎛️ Enable Transform
 
@@ -46,7 +41,7 @@ transform-none    // Disable transform
 
 ```
 
----
+
 
 ## 🔁 Scale
 
@@ -75,7 +70,7 @@ scale-y-\[0.8]
 
 ```
 
----
+
 
 ## 🔃 Rotate
 
@@ -97,7 +92,7 @@ rotate-\[270deg]
 
 ```
 
----
+
 
 ## ↔️ Translate
 
@@ -126,7 +121,7 @@ translate-y-\[10%]
 
 ```
 
----
+
 
 ## ➰ Skew
 
@@ -154,7 +149,7 @@ skew-x-\[8deg]
 
 ```
 
----
+
 
 ## ⏱️ Transition
 
@@ -170,7 +165,7 @@ transition-transform
 
 ```
 
----
+
 
 ## 🕒 Duration
 
@@ -195,7 +190,7 @@ duration-\[1200ms]
 
 ```
 
----
+
 
 ## 🧩 Delay
 
@@ -220,7 +215,7 @@ delay-\[250ms]
 
 ```
 
----
+
 
 ## 🧭 Easing / Timing Functions
 
@@ -241,12 +236,12 @@ ease-\[cubic-bezier$0.4, 0, 0.2, 1$]
 
 ```
 
----
+
 
 ## ✅ Summary Cheatsheet
 
 | Feature           | Class Example                          |
-|------------------|-----------------------------------------|
+|-------------------|-----------------------------------------|
 | Transform         | `transform`, `transform-gpu`            |
 | Scale             | `scale-125`, `scale-x-75`               |
 | Rotate            | `rotate-45`, `-rotate-90`               |
