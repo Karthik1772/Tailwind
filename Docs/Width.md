@@ -2,7 +2,7 @@
 
 Tailwind provides utilities to control the **width** of elements using fixed values, percentages, fractions, screen units, and arbitrary values.
 
-
+---
 
 ## 📦 Fixed Width
 

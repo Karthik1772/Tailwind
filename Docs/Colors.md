@@ -3,6 +3,7 @@
 
 Tailwind provides a range of utility classes to set **text** and **background** colors. Below are some commonly used color examples.
 
+---
 
 ## 📝 Text Colors (Example: Blue)
 

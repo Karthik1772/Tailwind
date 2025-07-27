@@ -2,6 +2,7 @@
 
 The `container` class in Tailwind is used to create a **responsive fixed-width layout wrapper**. It adapts based on the screen size and provides a consistent content boundary across breakpoints.
 
+---
 
 ## 🧱 Basic Usage
 

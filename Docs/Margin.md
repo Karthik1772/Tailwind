@@ -2,6 +2,8 @@
 
 Tailwind provides utilities to control **spacing** inside (padding) and outside (margin) of elements, using a **scale-based system**.
 
+---
+
 ## 📏 Spacing Scale
 
 Tailwind uses a consistent scale like this (unit = `rem`):
@@ -74,7 +76,7 @@ px-4    // padding-left + padding-right
 py-2    // padding-top + padding-bottom
 ```
 
----
+
 
 ## 2> 📤 Margin Utilities
 

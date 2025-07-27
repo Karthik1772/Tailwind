@@ -2,7 +2,7 @@
 
 Tailwind provides utilities to control the **positioning** of elements on the page using `static`, `relative`, `absolute`, `fixed`, and `sticky` — along with offset helpers (`top`, `right`, `bottom`, `left`, and `inset`).
 
-
+---
 
 ## 📌 Position Types
 

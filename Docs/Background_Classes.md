@@ -2,7 +2,7 @@
 
 Tailwind provides powerful utilities to work with **backgrounds**, including colors, images, gradients, shadows, and blend modes.
 
-
+---
 ## 🖼️ Add Image in Background
 
 Use the `bg-[url()]` class:

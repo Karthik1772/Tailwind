@@ -2,7 +2,7 @@
 
 Tailwind provides utilities to apply **CSS filters** like blur, brightness, contrast, grayscale, and more — all with ease and control.
 
-
+---
 ## 🪞 Enable Filter or Backdrop Filter
 
 To use filters, you first need to enable them with:

@@ -11,7 +11,7 @@ Master Flexbox in Tailwind with quick visual references.
 | `flex`        | <img src="../assets/flex/flex.gif" width="200" /> |
 | `inline-flex` | <img src="../assets/flex/inline-flex.gif" width="200" /> |
 
----
+
 
 ## 🔄 Flex Direction
 
@@ -20,7 +20,7 @@ Master Flexbox in Tailwind with quick visual references.
 | `flex-row`         | <img src="../assets/flex/flex-row.gif" width="200" /> |
 | `flex-col`         | <img src="../assets/flex/flex-col.gif" width="200" /> |
 
----
+
 
 ## 🧱 Flex Wrap
 
@@ -29,7 +29,7 @@ Master Flexbox in Tailwind with quick visual references.
 | `flex-wrap`     | <img src="../assets/flex/flex-wrap.gif" width="200" /> |
 | `flex-nowrap`   | <img src="../assets/flex/flex-nowrap.gif" width="200" /> |
 
----
+
 
 ## 📍 Justify Content
 
@@ -42,7 +42,7 @@ Master Flexbox in Tailwind with quick visual references.
 | `justify-around`   | <img src="../assets/flex/flex-justify-around.gif" width="200" /> |
 | `justify-evenly`   | <img src="../assets/flex/flex-justify-evenly.gif" width="200" /> |
 
----
+
 
 ## 📐 Align Items
 
@@ -54,7 +54,7 @@ Master Flexbox in Tailwind with quick visual references.
 | `items-stretch`   | <img src="../assets/flex/flex-items-stretch.gif" width="200" /> |
 | `items-baseline`  | <img src="../assets/flex/flex-items-baseline.gif" width="200" /> |
 
----
+
 
 ## 📏 Flex Grow / Shrink / Basis
 
@@ -64,7 +64,7 @@ Master Flexbox in Tailwind with quick visual references.
 | `flex-auto`  | <img src="../assets/flex/flex-auto.gif" width="200" /> |
 | `flex-none`  | <img src="../assets/flex/flex-none.gif" width="200" /> |
 
----
+
 
 
 🔙 [Back to Home](../README.md)

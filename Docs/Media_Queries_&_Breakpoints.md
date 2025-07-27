@@ -2,7 +2,7 @@
 
 Tailwind uses **mobile-first breakpoints**, meaning styles are applied from the smallest screen and scale up.
 
-
+---
 
 ## 📏 Default Breakpoints
 
