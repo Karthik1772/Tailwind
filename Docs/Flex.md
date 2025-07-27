@@ -48,11 +48,11 @@ Master Flexbox in Tailwind with quick visual references.
 
 | Class             | Visual |
 |-------------------|--------|
-| `items-start`     | <img src="../assets/flex/items-start.gif" width="200" /> |
-| `items-center`    | <img src="../assets/flex/items-center.gif" width="200" /> |
-| `items-end`       | <img src="../assets/flex/items-end.gif" width="200" /> |
-| `items-stretch`   | <img src="../assets/flex/items-stretch.gif" width="200" /> |
-| `items-baseline`  | <img src="../assets/flex/items-baseline.gif" width="200" /> |
+| `items-start`     | <img src="../assets/flex/flex-items-start.gif" width="200" /> |
+| `items-center`    | <img src="../assets/flex/flex-items-center.gif" width="200" /> |
+| `items-end`       | <img src="../assets/flex/flex-items-end.gif" width="200" /> |
+| `items-stretch`   | <img src="../assets/flex/flex-items-stretch.gif" width="200" /> |
+| `items-baseline`  | <img src="../assets/flex/flex-items-baseline.gif" width="200" /> |
 
 ---
 
