@@ -8,7 +8,7 @@ Master Flexbox in Tailwind with quick visual references.
 
 | Class         | Visual |
 |---------------|--------|
-| `flex`        | ![flex](../assets/flex/flex.gif) |
+| `flex`        | ![flex](../assets/flex/flex.mp4) |
 | `inline-flex` | ![inline-flex](../assets/flex/inline-flex.gif) |
 
 
