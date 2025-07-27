@@ -2,7 +2,7 @@
 
 Master Flexbox in Tailwind with quick visual references.
 
-
+---
 
 ## 🔹 `flex` vs `inline-flex`
 
@@ -11,69 +11,68 @@ Master Flexbox in Tailwind with quick visual references.
 | `flex`        | <img src="../assets/flex/flex.gif" width="200" /> |
 | `inline-flex` | <img src="../assets/flex/inline-flex.gif" width="200" /> |
 
-
+---
 
 ## 🔄 Flex Direction
 
 | Class              | Visual |
 |--------------------|--------|
-| `flex-row`         | <img src="../assets/flex/flex-row.gif" width="200" />|
-| `flex-col`         | ![flex-col](../assets/flex/flex-col.gif) |
+| `flex-row`         | <img src="../assets/flex/flex-row.gif" width="200" /> |
+| `flex-col`         | <img src="../assets/flex/flex-col.gif" width="200" /> |
 
-
+---
 
 ## 🧱 Flex Wrap
 
 | Class           | Visual |
 |-----------------|--------|
-| `flex-wrap`     | ![flex-wrap](../assets/flex/flex-wrap.gif) |
-| `flex-nowrap`   | ![flex-nowrap](../assets/flex/flex-nowrap.gif) |
+| `flex-wrap`     | <img src="../assets/flex/flex-wrap.gif" width="200" /> |
+| `flex-nowrap`   | <img src="../assets/flex/flex-nowrap.gif" width="200" /> |
 
-
+---
 
 ## 📍 Justify Content
 
 | Class              | Visual |
 |--------------------|--------|
-| `justify-start`    | ![justify-start](../assets/flex/justify-start.gif) |
-| `justify-center`   | ![justify-center](../assets/flex/justify-center.gif) |
-| `justify-end`      | ![justify-end](../assets/flex/justify-end.gif) |
-| `justify-between`  | ![justify-between](../assets/flex/justify-between.gif) |
-| `justify-around`   | ![justify-around](../assets/flex/justify-around.gif) |
-| `justify-evenly`   | ![justify-evenly](../assets/flex/justify-evenly.gif) |
+| `justify-start`    | <img src="../assets/flex/justify-start.gif" width="200" /> |
+| `justify-center`   | <img src="../assets/flex/justify-center.gif" width="200" /> |
+| `justify-end`      | <img src="../assets/flex/justify-end.gif" width="200" /> |
+| `justify-between`  | <img src="../assets/flex/justify-between.gif" width="200" /> |
+| `justify-around`   | <img src="../assets/flex/justify-around.gif" width="200" /> |
+| `justify-evenly`   | <img src="../assets/flex/justify-evenly.gif" width="200" /> |
 
+---
 
 ## 📐 Align Items
 
 | Class             | Visual |
 |-------------------|--------|
-| `items-start`     | ![items-start](../assets/flex/items-start.gif) |
-| `items-center`    | ![items-center](../assets/flex/items-center.gif) |
-| `items-end`       | ![items-end](../assets/flex/items-end.gif) |
-| `items-stretch`   | ![items-stretch](../assets/flex/items-stretch.gif) |
-| `items-baseline`  | ![items-baseline](../assets/flex/items-baseline.gif) |
+| `items-start`     | <img src="../assets/flex/items-start.gif" width="200" /> |
+| `items-center`    | <img src="../assets/flex/items-center.gif" width="200" /> |
+| `items-end`       | <img src="../assets/flex/items-end.gif" width="200" /> |
+| `items-stretch`   | <img src="../assets/flex/items-stretch.gif" width="200" /> |
+| `items-baseline`  | <img src="../assets/flex/items-baseline.gif" width="200" /> |
 
-
+---
 
 ## 📏 Flex Grow / Shrink / Basis
 
 | Class        | Visual |
 |--------------|--------|
-| `flex-1`     | ![flex-1](../assets/flex/flex-1.gif) |
-| `flex-auto`  | ![flex-auto](../assets/flex/flex-auto.gif) |
-| `flex-none`  | ![flex-none](../assets/flex/flex-none.gif) |
+| `flex-1`     | <img src="../assets/flex/flex-1.gif" width="200" /> |
+| `flex-auto`  | <img src="../assets/flex/flex-auto.gif" width="200" /> |
+| `flex-none`  | <img src="../assets/flex/flex-none.gif" width="200" /> |
 
-
+---
 
 ## 🔃 Order
 
 | Class     | Visual |
 |-----------|--------|
-| `order-*` | ![order](../assets/flex/order.gif) |
+| `order-*` | <img src="../assets/flex/order.gif" width="200" /> |
 
-
+---
 
 ✅ Now you can visualize what each class does, directly in your README.  
 Let me know if you'd like a **Grid**, **Spacing**, or **Column layout** visual section too!
-```
-
