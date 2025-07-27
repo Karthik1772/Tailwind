@@ -173,4 +173,3 @@ Use `p-{value}` or `p-[custom]` to apply inner spacing on any element.
 
 
 🔙 [Back to Home](../README.md)
-```
