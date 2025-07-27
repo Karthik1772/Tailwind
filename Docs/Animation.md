@@ -9,7 +9,6 @@ Tailwind provides utility classes to easily apply pre-defined and custom animati
 Enable animation:
 
 ```
-
 animate-none
 animate-spin
 animate-ping
@@ -17,7 +16,6 @@ animate-pulse
 animate-bounce
 
 ````
-
 | Class           | Effect Description                                    |
 |----------------|--------------------------------------------------------|
 | `animate-none` | No animation                                           |
@@ -146,9 +144,7 @@ ease-\[cubic-bezier\(0.4, 0, 0.2, 1\)]
 
 ## 📽️ Visual Slide Reference
 
-![Tailwind Animation Overview](../assets/slides/animation-overview.png)
-
-Covered:
+Tailwind Animation Overview Covered:
 
 * ✳️ Animate: spin, pulse, ping, bounce
 * 🛠️ Custom keyframes
